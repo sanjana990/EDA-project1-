@@ -48,8 +48,8 @@ This notebook (`eda1_assignment.ipynb`) performs a comprehensive exploratory ana
 
 ## 📎 Technologies Used
 
-- Python 🐍
-- Jupyter Notebook 📒
+- Python s
+- Jupyter Notebook 
 - Libraries:
   - `pandas`, `numpy` for data manipulation
   - `matplotlib`, `seaborn` for visualization
@@ -57,7 +57,7 @@ This notebook (`eda1_assignment.ipynb`) performs a comprehensive exploratory ana
 
 ---
 
-## 🏁 How to Run
+## 🏁 How to Run this repository
 
 1. Clone this repository:
    ```bash
